@@ -5,9 +5,7 @@
 This project is a fork of [[Hanwckf's ImmortalWrt](https://github.com/hanwckf/immortalwrt-mt798x)](https://github.com/hkint/xiaomi-ax3000t-immortalwrt-hanwckf-firmware-build) firmware and builds the image for the stock configuration (default) 
 ## Default Configuration  
 
-- **Default LAN IP**: `192.168.31.1`  
-
-- **默认 LAN IP**: `192.168.31.1`  
+- **Default LAN IP**: `192.168.1.1`  
 
 ## Custom Build  
 
