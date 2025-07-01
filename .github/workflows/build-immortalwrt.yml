@@ -10,7 +10,7 @@ env:
   CONFIG_FILE: .config
   SELF_BEFORE_SH: before-update-custom.sh
   SELF_AFTER_SH: after-update-custom.sh
-  TZ: Asia/Shanghai
+  TZ: Asia/Dubai
   FEEDS_CONF: feeds.conf.default
 
 jobs:
