@@ -9,7 +9,7 @@ on:
 env:
   REPO_URL: https://github.com/hanwckf/bl-mt798x.git
   REPO_BRANCH: master
-  TZ: Asia/Shanghai
+  TZ: Asia/Dubai
 
 jobs:
   build:
